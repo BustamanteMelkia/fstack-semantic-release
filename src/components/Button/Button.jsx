@@ -1,0 +1,9 @@
+const Button = () => {
+  return (
+    <button>
+      Click this!
+    </button>
+  );
+}
+ 
+export default Button;
